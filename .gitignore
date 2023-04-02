@@ -1,0 +1,10 @@
+# ignore
+*.TMP
+*.XTMP
+*.log
+nezuko-tempdata/
+scan-logs
+
+# don't ignore
+!nezuko-tempdata/empty.txt
+!scan-logs/empty.txt
